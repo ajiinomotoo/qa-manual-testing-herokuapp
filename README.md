@@ -45,6 +45,11 @@ Repository ini berisi beberapa artefak pengujian, yaitu:
 * Web Browser (Google Chrome)
 * Manual Testing Technique
 
+## Metode Pengujian
+* Functional Testing
+* Negative Testing
+* Exploratory Testing
+
 ## Temuan Bug
 
 Selama proses pengujian ditemukan satu anomali pada sistem:
