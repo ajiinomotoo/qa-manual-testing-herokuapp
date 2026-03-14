@@ -64,5 +64,7 @@ Screenshot terkait bug dapat dilihat pada folder `bug_evidence`.
 ## Tester
 
 Aji Nugroho
+
 Mahasiswa Informatika
+
 Latihan Manual QA Testing
