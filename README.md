@@ -57,6 +57,9 @@ Selama proses pengujian ditemukan satu anomali pada sistem:
 **BUG01 – Halaman secure masih dapat diakses setelah logout ketika tombol back pada browser ditekan.**
 
 Bug ini berkaitan dengan kemungkinan **browser caching atau session handling** pada aplikasi.
+## Bug Evidence
+
+Screenshot terkait bug dapat dilihat pada folder `bug_evidence`.
 
 ## Tester
 
